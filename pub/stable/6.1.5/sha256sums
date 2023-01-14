@@ -1,6 +1,6 @@
-557954b3d6ad5ba99fd51c7a18350adddf415c6eae7ee9e67d48c9a943c4e85c  boot-6.1.5-happy-new-year.tar.gz
-bbcb8ae7a9714b665bb31349778589ea4518b162dcb6b513ed13d05c1c8d6168  dtb-allwinner-6.1.5-happy-new-year.tar.gz
-e78bd8f6aed0c41303c69c59eacfba241dfe474a6e169faecf54400ae0526104  dtb-amlogic-6.1.5-happy-new-year.tar.gz
-a3f5c09bfe86a178bbe9470daf99c07d9b12ff1566936e19a7cc12a1f525301a  dtb-rockchip-6.1.5-happy-new-year.tar.gz
-f282ab01559afc24e125381f8fc6426fb0527e25ddb51b90f2e76abc847a696b  header-6.1.5-happy-new-year.tar.gz
-608c1d9b4bff5bb9797394c26b1adc63c595e54db941ce8791b6e93b1b4c674a  modules-6.1.5-happy-new-year.tar.gz
+15891e257ca4bc63788ab501cb8b65d1bb990270c180eb1195cc9e13e156b131  boot-6.1.5-kzero.tar.gz
+57577f64e9ea613445561a0f43d5214c3284bf54d36638a523b63d570c1b4002  dtb-allwinner-6.1.5-kzero.tar.gz
+d60cd2b05a72d4d74e5e36806c54bdb64a0e00189097b3a5e5ae9ddc19dc13e6  dtb-amlogic-6.1.5-kzero.tar.gz
+8b0aa963a05db26b80c699899aa7d357536b58f695da94f28fc44006d2a973c2  dtb-rockchip-6.1.5-kzero.tar.gz
+26c9dc76a31719f63c3928a8a9d7a7f5a4b6c737084ce9f93c092cfe2d6efd4f  header-6.1.5-kzero.tar.gz
+e4f0a4048d67f34f66665b02ffd3a500059c12d7949fe0d02ac8920ba56bc93d  modules-6.1.5-kzero.tar.gz
