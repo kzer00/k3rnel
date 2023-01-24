@@ -1,6 +1,6 @@
-c834c55877c36ba5a1f40a6bd2c99fa196dd27cd516c52e6b1b97b4ed0bcc317  boot-5.15.87-happy-new-year.tar.gz
-05e440250d59c6434a3ccb7a6ebc478ed4c709a86afd864101ef27e268fdd2f2  dtb-allwinner-5.15.87-happy-new-year.tar.gz
-f17a8dfdfbfa21f2021fc47e1e2f1da12510784986c97ae082508301b6d82814  dtb-amlogic-5.15.87-happy-new-year.tar.gz
-fcc8dc913f74708cfd74a040bfc64ad2735d31889664ac4a8c93bdf46d28b6f8  dtb-rockchip-5.15.87-happy-new-year.tar.gz
-45a379d8f38e2f8b0e7899f2d7f77490ca37e45e67f3c37dd66cd01169f12e2a  header-5.15.87-happy-new-year.tar.gz
-a1179eee3dade6a8594e671f6b677d1dce2b91c6c25294e33e06d732897f8275  modules-5.15.87-happy-new-year.tar.gz
+62610288eced1d4bbe7da4d9cf94eca3adca5af1a5b8d1c5071ed685eb1666e5  boot-5.15.87-kzero.tar.gz
+d15047966e2a97d393e589ce5d9c1b80bb429ebbcbbe3a45fed43d828904e953  dtb-allwinner-5.15.87-kzero.tar.gz
+0d55f1588dcbbdd3a3996a8f40b491976a740c3a1a9bd645f30040cbc29f53a6  dtb-amlogic-5.15.87-kzero.tar.gz
+7797c71c8620a490be870221be3f4b2ffd8be59b31632aff3a4b388d87e26b8c  dtb-rockchip-5.15.87-kzero.tar.gz
+00a45e48a2495e8a427602cea95606831da766c10568ba4340f36b7626323dec  header-5.15.87-kzero.tar.gz
+7a3e54ddeaa2ed0dcd7d413955bcb6b1ad970ec17aaf27275a4d34b393d78ea4  modules-5.15.87-kzero.tar.gz
